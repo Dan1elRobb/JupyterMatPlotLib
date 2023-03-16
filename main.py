@@ -1,3 +1,3 @@
 import jupyter
-import matplotlib
+import matplotlib as plt
 import numpy as np
